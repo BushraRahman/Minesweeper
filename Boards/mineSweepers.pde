@@ -442,8 +442,3 @@ void redrawBoard(){
   time2 = actTime;
 }
 */
-/*
-ok plan:
-two time variables
-every time game resumes, reset time2 variable. 
-add old time to millis-time2*/
